@@ -20561,6 +20561,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/patrickmcglone/Documents/GitHub/AspNetCoreTodo/AspNetCoreTodo/Views/Todo/Index.cshtml",
+      "TargetPath": "Views\\Todo\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/patrickmcglone/Documents/GitHub/AspNetCoreTodo/AspNetCoreTodo/Views/Home/Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
